@@ -79,3 +79,9 @@ Zen Shapes was built as a small reminder that not everything needs a leaderboard
 ---
 
 *Made with Claude on a slow afternoon.* 🌿
+
+---
+
+## License
+
+This project is released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (CC0) license — no rights reserved. Use it, remix it, share it freely.
